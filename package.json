@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": { 
+    "start": "node server.js" 
+  },
+  "name": "json-server-for-cinema-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
